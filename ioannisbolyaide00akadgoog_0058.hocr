@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioannisbolyaide00akadgoog_0058.png"; bbox 0 0 5034 6582; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 544 5425 2077 5490">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 544 5425 2077 5490">
+     <span class='ocr_line' id='line_1_1' title="bbox 544 5425 2077 5490; baseline -0.01 -4"><span class='ocrx_word' id='word_1_1' title='bbox 544 5445 604 5488; x_wconf 38' lang='lat'>0011</span> <span class='ocrx_word' id='word_1_2' title='bbox 615 5433 762 5490; x_wconf 72' lang='grc' dir='ltr'>τὸτὸεεγ</span> <span class='ocrx_word' id='word_1_3' title='bbox 777 5447 806 5488; x_wconf 76' lang='grc' dir='ltr'>Β.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1730 5433 1916 5477; x_wconf 61' lang='lat' dir='ltr'>Limonum</span> <span class='ocrx_word' id='word_1_5' title='bbox 1928 5431 1955 5474; x_wconf 84' lang='grc' dir='ltr'>ν.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1966 5425 2077 5474; x_wconf 60' lang='lat' dir='ltr'>madai.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2522 6580">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2522 6580">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2522 6580; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 2522 6580; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
